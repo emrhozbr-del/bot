@@ -1,0 +1,15 @@
+[project]
+name = "alfa-trade-bot"
+version = "6.0.1"
+description = "Alfa Trade Club Kripto Botu (v6.0.1-Mod2Fix)"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "flet==0.24.1",
+    "requests"
+]
+
+[tool.flet]
+org = "com.alfatrade"
+product = "Alfa Trade Bot"
+company = "Alfa Trade Club"
